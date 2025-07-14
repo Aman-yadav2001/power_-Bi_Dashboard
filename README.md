@@ -5,8 +5,6 @@ This project visualizes key metrics and insights from a fictional e-commerce bus
 
 ## 📊 Dashboard Overview
 
-![Dashboard Screenshot](./WhatsApp%20Image%202025-07-14%20at%2014.36.29_0143f92a.jpg)
-
 The dashboard provides insights on:
 
 - **Total Revenue**: ₹438K  
