@@ -77,15 +77,4 @@ Contains line-item product information such as:
 
 ---
 
-## 📸 Preview
-
-📷 See the full dashboard screenshot in `WhatsApp Image 2025-07-14 at 14.36.29_0143f92a.jpg`.
-
----
-
-## 👤 Author
-
-**Madhav Vishal**  
-Passionate about data visualization and business analytics.  
-Feel free to connect on [LinkedIn](#) or explore other [GitHub Projects](#).
 
